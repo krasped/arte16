@@ -1,0 +1,28 @@
+.formPage-btn {
+    width: 100px;
+    margin: 20px;
+    background-color: rgb(157, 212, 194);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.formPage-btn:hover {
+	background-color: #fba768
+}
+
+.formPage-num{
+    display: flex;
+    margin: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.formPage-num-p{
+    margin-right: 20px;
+}
+
+.formPage-num-input{
+    width: 100px;
+    height: 30px;
+    margin-right: 20px;
+}
